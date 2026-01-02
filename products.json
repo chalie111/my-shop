@@ -1,5 +1,18 @@
 [
   {
+    "id": "1767339316020",
+    "name": "심재륜",
+    "price": 1000,
+    "cond": "사용감 있음",
+    "desc": "게임 못함",
+    "images": [
+      "https://via.placeholder.com/400x300?text=No+Image"
+    ],
+    "img": "https://via.placeholder.com/400x300?text=No+Image",
+    "status": "available",
+    "isNew": true
+  },
+  {
     "id": "1767338241384",
     "name": "김동휘",
     "price": 67,
