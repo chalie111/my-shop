@@ -1,5 +1,15 @@
 [
   {
+    "id": "1767336966842",
+    "name": "김유근",
+    "price": 500,
+    "cond": "사용감 있음",
+    "desc": "너무 끈끈해요",
+    "img": "https://via.placeholder.com/400x300?text=No+Image",
+    "status": "available",
+    "isNew": true
+  },
+  {
     "id": "1767336901449",
     "name": "서영탁",
     "price": 500,
