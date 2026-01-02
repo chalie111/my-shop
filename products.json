@@ -1,18 +1,5 @@
 [
   {
-    "id": "1767338010246",
-    "name": "스투시 반팔",
-    "price": 75000,
-    "cond": "새 상품",
-    "desc": "size L ",
-    "images": [
-      "<a href=\"https://ibb.co/FqyvCnWy\"><img src=\"https://i.ibb.co/FqyvCnWy/a-3bd1add6d6894b72b673d5e8cd1137db.webp\" alt=\"a-3bd1add6d6894b72b673d5e8cd1137db\" border=\"0\"></a>"
-    ],
-    "img": "<a href=\"https://ibb.co/FqyvCnWy\"><img src=\"https://i.ibb.co/FqyvCnWy/a-3bd1add6d6894b72b673d5e8cd1137db.webp\" alt=\"a-3bd1add6d6894b72b673d5e8cd1137db\" border=\"0\"></a>",
-    "status": "available",
-    "isNew": true
-  },
-  {
     "id": "1767337861461",
     "name": "스투시 반팔",
     "price": 75000,
