@@ -1,5 +1,18 @@
 [
   {
+    "id": "1767338241384",
+    "name": "김동휘",
+    "price": 67,
+    "cond": "사용감 있음",
+    "desc": "기타를 잘침 멋잇어 오빠 ",
+    "images": [
+      "https://via.placeholder.com/400x300?text=No+Image"
+    ],
+    "img": "https://via.placeholder.com/400x300?text=No+Image",
+    "status": "available",
+    "isNew": true
+  },
+  {
     "id": "1767338162229",
     "name": "스투시 반팔",
     "price": 75000,
