@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1767336255252",
-    "name": "Test in english",
-    "price": 1004,
-    "cond": "새 상품",
-    "desc": "Test",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2dpoaqzBLo2hPOvjvIELZwN3r7mttsncpG9QMtAG-A&s=10",
-    "status": "available",
-    "isNew": true
-  }
-]
+[]
